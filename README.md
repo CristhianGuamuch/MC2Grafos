@@ -1,1 +1,2 @@
-# MC2Grafos
+Cristhian Guamuch
+MC2N
